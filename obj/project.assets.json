@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/paulbagnicki/git/mindbodysynergy/MindBodySynergy/MindBodySynergy.csproj",
+      "projectUniqueName": "/home/paulbagnicki/git/mindbodysynergy/MindBodySynergy.csproj",
       "projectName": "MindBodySynergy",
-      "projectPath": "/home/paulbagnicki/git/mindbodysynergy/MindBodySynergy/MindBodySynergy.csproj",
+      "projectPath": "/home/paulbagnicki/git/mindbodysynergy/MindBodySynergy.csproj",
       "packagesPath": "/home/paulbagnicki/.nuget/packages/",
-      "outputPath": "/home/paulbagnicki/git/mindbodysynergy/MindBodySynergy/obj/",
+      "outputPath": "/home/paulbagnicki/git/mindbodysynergy/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/paulbagnicki/.nuget/NuGet/NuGet.Config"
